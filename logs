@@ -1,0 +1,11 @@
+DEBUG:root:No cached downloads.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): 1fichier.com:443
+DEBUG:urllib3.connectionpool:https://1fichier.com:443 "GET /?vayyrqul51ncgdig0hh8 HTTP/1.1" 200 None
+DEBUG:root:Getting proxy.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): 1fichier.com:443
+DEBUG:urllib3.connectionpool:https://1fichier.com:443 "POST /?vayyrqul51ncgdig0hh8 HTTP/1.1" 200 None
+DEBUG:root:Proxy worked.
+DEBUG:root:Parsed direct link.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): a-34.1fichier.com:80
+DEBUG:urllib3.connectionpool:http://a-34.1fichier.com:80 "GET /c477525571?inline HTTP/1.1" 206 125027908
+DEBUG:root:Starting download.
